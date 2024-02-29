@@ -70,7 +70,8 @@ These functions work together seamlessly to provide E-Bhapa with intelligent and
 
 Bhapa                      |  E-Bhapa
 :-------------------------:|:-------------------------:
-![](https://github.com/fh1m/E_Bhapa/assets/132839265/91687e66-9a50-4cab-a14e-3a07d4fe1148)   |  ![]()
+![](https://github.com/fh1m/E_Bhapa/assets/132839265/91687e66-9a50-4cab-a14e-3a07d4fe1148)   |  ![](https://github.com/fh1m/E_Bhapa/assets/132839265/4c5dfb16-a4f3-441b-a47e-7087035e5113)
 
+## looks identical, wow
 
 
