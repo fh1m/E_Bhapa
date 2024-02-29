@@ -2,7 +2,8 @@
 # E-Bhapa - Your E-companion
 
 **Intro**
-I am thrilled to present to you *E-Bhapa*,
+I am thrilled to present to you *E-Bhapa*
+    *context:* So we had a team and all of my team members bailed on me so I had to make something at the last minute so here what 6h and 4cup of coffee makes when there is no components available, the last servo burnt, so with all I had left I had to show some creativity in the code and I liked the code in the end so thought to share it.,
 
 *What can it do actually?*
 **lets see**
