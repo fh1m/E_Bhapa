@@ -66,3 +66,11 @@ E-Bhapa further elevates its capabilities with adaptive speed control, a groundb
 
 These functions work together seamlessly to provide E-Bhapa with intelligent and adaptive behavior, allowing it to navigate and explore its surroundings effectively in various scenarios.
 
+## Finally, lets see our Bhapa(s)
+
+Bhapa                      |  E-Bhapa
+:-------------------------:|:-------------------------:
+![](https://github.com/fh1m/E_Bhapa/assets/132839265/91687e66-9a50-4cab-a14e-3a07d4fe1148)   |  ![]()
+
+
+
